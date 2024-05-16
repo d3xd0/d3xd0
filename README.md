@@ -1,5 +1,12 @@
 ### <p align="center">☁️ d3xd0 ☁️</p>
 <p align= "center">
+  <div">
+  <a href="d3n1z0x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3xd0&label=Profile%20views&color=0e75b6&style=flat" alt="d3xd0" /> </p>
 </p>
 
