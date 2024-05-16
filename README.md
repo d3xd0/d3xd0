@@ -1,1 +1,34 @@
-https://camo.githubusercontent.com/f25898a1a7a5b4471d540c718771adf8cb691931c1a737dd12e995b25e857e8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7761786e657426636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6461726b
+### <p align="center">☁️ d3xd0 ☁️</p>
+<p align= "center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=d3xd0&label=Profile%20views&color=0e75b6&style=flat" alt="d3xd0" /> </p>
+</p>
+
+-----
+
+### <p align="center">📜 Languages 📜</p>
+<p align= "center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
+  </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+</p>
+
+-----
+
+### <p align="center">🛠 Tools 🛠</p>
+<p align="center">
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
+  </a>
+  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40">
+  </a>
+</p>
+
+-----
+
+### <p align="center">📊 Stats 📊</p>
+<div align= "center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3xd0&show_icons=true&theme=dark&locale=en" alt="d3xd0" /></p>
+  </div>
