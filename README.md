@@ -16,14 +16,6 @@
 
 -----
 
-### <p align="center">🛠 Tools 🛠</p>
-<p align="center">
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">
-  </a>
-</p>
-
------
 
 ### <p align="center">📊 Stats 📊</p>
 <div align= "center">
